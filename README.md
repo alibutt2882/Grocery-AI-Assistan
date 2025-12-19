@@ -10,7 +10,6 @@
 **An intelligent web application that helps consumers make smarter, safer, and more cost-effective grocery purchasing decisions**
 
 
-[![Report Bug](https://img.shields.io/badge/🐛-Report_Bug-red)](https://github.com/alibutt2882/Grocery-AI-Assistan/issues)
 [![Request Feature](https://img.shields.io/badge/💡-Request_Feature-green)](https://github.com/alibutt2882/Grocery-AI-Assistan/issues)
 
 </div>
