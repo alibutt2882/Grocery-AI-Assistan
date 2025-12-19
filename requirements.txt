@@ -1,0 +1,9 @@
+streamlit
+streamlit-option-menu
+opencv-python
+pytesseract
+pillow
+numpy
+pandas
+plotly
+qrcode
